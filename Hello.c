@@ -8,4 +8,3 @@ int main(void)
     the " defination " is included in " stdio " library */
     printf("Hello , McMaster!\n");
 }
-2121
