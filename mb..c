@@ -54,5 +54,3 @@ int main()
        printf("s3: %s\n", s3);
        return 0;
 }
-
-1
